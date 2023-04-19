@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **full stack web development project**
 
-- 🌱 I’m currently learning **spring boot**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **web development, core java, MySQL**
 
