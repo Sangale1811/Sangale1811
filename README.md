@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **full stack web development project**
 
-<!-- - 🌱 I’m currently learning **React JS** -->
-
 - 💬 Ask me about **web development, core java, MySQL**
 
 - 📫 How to reach me **shivanisangale8@gmail.com**
