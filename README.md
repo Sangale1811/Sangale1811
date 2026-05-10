@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Web Development Project**
+- 🔭 Building **Full Stack Web Applications**
+  
+- 🌱 Currently learning **MERN Stack Development**
 
-- 💬 Ask me about **Web Development, React Js ⚛️, Core Java, MySQL**
+- 💬 Skilled in **React.js ⚛️, Python, MySQL, and Web Development**
 
-- 📫 How to reach me **shivanisangale8@gmail.com**
+- 📫 Reach me at: **shivanisangale8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
